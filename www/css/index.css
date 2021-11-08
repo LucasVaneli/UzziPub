@@ -75,7 +75,7 @@ nav a:hover {
 
 
 #welcome {
-    background-image: url(../images/burger.jpg);
+    background-image: url(../images/Narguile.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@ nav a:hover {
 #description {
 	background-color: #1a2328;
     color: #747d82;
-    background-image: url(../images/description.jpg);
+    background-image: url(../images/Fumando.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@ nav a:hover {
 }
 
 .img-description {
-	background-image: url(../images/description.jpg);
+	background-image: url(../images/Fumando.jpg);
 	height: 412px;
 	background-size: cover;
 	min-width: auto;
@@ -177,46 +177,46 @@ nav a:hover {
 }
 
 .item1 {
-	background-image: url(../images/thumb_pizza_1.jpg);
+	background-image: url(../images/rosh.jpg);
 }
 
 .item2 {
-	background-image: url(../images/thumb_pizza_2.jpg);
+	background-image: url(../images/rosh.jpg);
 
 }
 
 .item3 {
-	background-image: url(../images/thumb_pizza_3.jpg);
+	background-image: url(../images/rosh.jpg);
 	
 }
 
 .item4 {
-	background-image: url(../images/thumb_pizza_4.jpg);
+	background-image: url(../images/rosh.jpg);
 	
 }
 
 .item5 {
-	background-image: url(../images/burger_1.png);
+	background-image: url(../images/Bebidas.jpg);
 }
 
 .item6 {
-	background-image: url(../images/burger_2.png);	
+	background-image: url(../images/Bebidas.jpg);	
 }
 
 .item7 {
-	background-image: url(../images/burger_3.png);
+	background-image: url(../images/Bebidas.jpg);
 }
 
 .item8 {	
-	background-image: url(../images/burger_4.png);
+	background-image: url(../images/Bebidas.jpg);
 }
 
 .item9 {
-	background-image: url(../images/burger_5.png);
+	background-image: url(../images/Bebidas.jpg);
 }
 
 .item10 {
-	background-image: url(../images/burger_6.png);
+	background-image: url(../images/Bebidas.jpg);
 }
 
 #about {
@@ -321,7 +321,7 @@ footer p {
 }
 
 .logo-burger {
-    background-image: url(../images/logo_burger.svg);
+    background-image: url(../images/UzziPub.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
