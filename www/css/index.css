@@ -104,9 +104,9 @@ nav a:hover {
     background-repeat: no-repeat;
     display: block;
     position: relative;
-	z-index: 3;*/
-	bottom: -90vh;
-	top: 90vh;
+		z-index: 3;
+		bottom: -90vh;
+		top: 90vh;
 }
 
 .btn-down-products {
