@@ -423,3 +423,11 @@ footer p {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.imagemCardapio {
+	display: flex;
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
